@@ -7,7 +7,7 @@ const CommentsCollection = [
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa labore fugit voluptatum?",
     status: "Pending",
-    profile: "../../../public/user1.jpg",
+    profile: "user1.jpg",
     creationDate: new Date().toLocaleDateString("en-US", {
       month: "long",
       day: "numeric",
@@ -20,7 +20,7 @@ const CommentsCollection = [
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa labore fugit voluptatum?",
     status: "Approved",
-    profile: "../../../public/user2.jpg",
+    profile: "user2.jpg",
     creationDate: new Date().toLocaleDateString("en-US", {
       month: "long",
       day: "numeric",
@@ -33,7 +33,7 @@ const CommentsCollection = [
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa labore fugit voluptatum?",
     status: "Approved",
-    profile: "../../../public/user3.jpg",
+    profile: "user3.jpg",
     creationDate: new Date().toLocaleDateString("en-US", {
       month: "long",
       day: "numeric",
@@ -46,7 +46,7 @@ const CommentsCollection = [
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa labore fugit voluptatum?",
     status: "Rejected",
-    profile: "../../../public/user4.jpg",
+    profile: "user4.jpg",
     creationDate: new Date().toLocaleDateString("en-US", {
       month: "long",
       day: "numeric",
@@ -59,7 +59,7 @@ const CommentsCollection = [
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa labore fugit voluptatum?",
     status: "Pending",
-    profile: "../../../public/user1.jpg",
+    profile: "user1.jpg",
     creationDate: new Date().toLocaleDateString("en-US", {
       month: "long",
       day: "numeric",
@@ -70,7 +70,7 @@ const CommentsCollection = [
   {
     id: 6,
     name: "Michael Jorden",
-    profile: "../../../public/user5.jpg",
+    profile: "user5.jpg",
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa labore fugit voluptatum?",
     status: "Pending",

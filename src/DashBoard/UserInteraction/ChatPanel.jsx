@@ -5,37 +5,37 @@ const messages = [
   {
     text: "Hello World!",
     sender: "You",
-    profilePic: "../../../public/user2.jpg",
+    profilePic: "user2.jpg",
     timestamp: "9:30 AM",
   },
   {
     text: "Love it! :heart:",
     sender: "friend",
-    profilePic: "../../../public/user1.jpg",
+    profilePic: "user1.jpg",
     timestamp: "9:32 AM",
   },
   {
     text: "Check out my Github at https://github.com/WigoHunter",
     sender: "You",
-    profilePic: "../../../public/user2.jpg",
+    profilePic: "user2.jpg",
     timestamp: "9:35 AM",
   },
   {
     text: "Lorem ipsum dolor sit amet, nibh ipsum. Cum class sem inceptos incidunt sed sed. Tempus wisi enim id, arcu sed lectus aliquam, nulla vitae est bibendum molestie elit risus.",
     sender: "friend",
-    profilePic: "../../../public/user1.jpg",
+    profilePic: "user1.jpg",
     timestamp: "10:00 AM",
   },
   {
     text: "So Chilltime is going to be an app for you to view videos with friends. You can sign-up now to try out our private beta!",
     sender: "You",
-    profilePic: "../../../public/user2.jpg",
+    profilePic: "user2.jpg",
     timestamp: "10:05 AM",
   },
   {
     text: "Definitely! Sounds great!",
     sender: "Friend",
-    profilePic: "../../../public/user1.jpg",
+    profilePic: "user1.jpg",
     timestamp: "10:10 AM",
   },
 ];

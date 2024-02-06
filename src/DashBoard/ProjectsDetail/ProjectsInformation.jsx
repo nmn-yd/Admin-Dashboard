@@ -7,7 +7,7 @@ const tableData = [
     status: "#f64e60",
     weeks: 35,
     budget: "95k",
-    profile: "../../../public/user1.jpg",
+    profile: "user1.jpg",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const tableData = [
     status: "#0bb7af",
     weeks: 35,
     budget: "95k",
-    profile: "../../../public/user2.jpg",
+    profile: "user2.jpg",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const tableData = [
     status: "#ee9d01",
     weeks: 35,
     budget: "95k",
-    profile: "../../../public/user3.jpg",
+    profile: "user3.jpg",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const tableData = [
     status: "#f64e60",
     weeks: 35,
     budget: "95k",
-    profile: "../../../public/user4.jpg",
+    profile: "user4.jpg",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const tableData = [
     status: "#0bb7af",
     weeks: 35,
     budget: "95k",
-    profile: "../../../public/user5.jpg",
+    profile: "user5.jpg",
   },
 ];
 
