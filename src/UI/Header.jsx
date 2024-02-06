@@ -87,7 +87,7 @@ function Header() {
             >
               <img
                 className="h-8 w-8 rounded-full"
-                src="../../public/user1.jpg"
+                src="user1.jpg"
                 alt="User"
               />
             </a>
